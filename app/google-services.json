@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068054077729",
+    "firebase_url": "https://whatclone-bd41e.firebaseio.com",
+    "project_id": "whatclone-bd41e",
+    "storage_bucket": "whatclone-bd41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068054077729:android:dd67b0b571f094976c9e60",
+        "android_client_info": {
+          "package_name": "com.example.whatclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068054077729-41bfqk2cpll51ogtunvbb227sec18ldm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatclone",
+            "certificate_hash": "788b03edb5d5caacd9ab38fb31c66be387ee4f1c"
+          }
+        },
+        {
+          "client_id": "1068054077729-ti3lh4vv19i7t8ge7rpqnrjv87ujj33g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQfJih6QZqSu_4kbQTMuUG2gPfK2SHDUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068054077729-ti3lh4vv19i7t8ge7rpqnrjv87ujj33g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
